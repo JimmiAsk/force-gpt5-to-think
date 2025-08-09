@@ -5,6 +5,10 @@ Appends a thinking reminder to your ChatGPT prompt only when the selected model 
 Links:
 - Install page: https://jimmiask.github.io/force-gpt5-to-think/
 - Repository: https://github.com/JimmiAsk/force-gpt5-to-think
+- X (Twitter): https://x.com/AGJimmi
+
+## Why this exists
+OpenAI capped “thinking” requests for many users after GPT‑5 launched. This forces the router to pick thinking mode by appending a tiny reminder at send time — saving your limited “thinking” requests.
 
 ## What it does
 - Detects when the model selector indicates GPT-5 (exact match)
@@ -41,6 +45,8 @@ This is the simplest path for most users. It also auto‑updates.
 - **Storage**: to persist the on/off toggle in Chrome Sync storage
 - **Host permissions**: `https://chatgpt.com/*`, `https://chat.openai.com/*`
 
-## Support
-Open an issue: https://github.com/JimmiAsk/force-gpt5-to-think/issues
+## Spread the word / Support
+- Star the repo if it helped: https://github.com/JimmiAsk/force-gpt5-to-think
+- Follow on X: https://x.com/AGJimmi
+- Open an issue: https://github.com/JimmiAsk/force-gpt5-to-think/issues
 
