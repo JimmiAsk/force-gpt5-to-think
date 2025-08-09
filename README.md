@@ -22,8 +22,8 @@ IMPORTANT: You **MUST** think carefully before you give your answer, the result 
 ## Install (easiest): One‑click userscript
 This is the simplest path for most users. It also auto‑updates.
 
-1. Install Tampermonkey:
-   - Chrome Web Store: search for "Tampermonkey" by Jan Biniok
+1. Install [Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo):
+   - Chrome Web Store: link above
 2. Click this link to install the userscript (it will open a Tampermonkey prompt):
    - [Install Userscript](https://raw.githubusercontent.com/JimmiAsk/force-gpt5-to-think/main/userscript/force-gpt5.user.js)
    - Or visit the [Install page](https://jimmiask.github.io/force-gpt5-to-think/)
