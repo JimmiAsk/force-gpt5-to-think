@@ -1,0 +1,11 @@
+{
+  "name": "force-gpt5-to-think",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Adds a thinking reminder to the end of your prompt when the selected model is GPT-5",
+  "scripts": {
+    "build-icons": "node scripts/build-icons.js",
+    "pack": "mkdir -p dist && zip -r dist/force-gpt5-to-think.zip . -x 'dist/*' -x '.git/*' -x 'node_modules/*' -x '.DS_Store'"
+  }
+}
+

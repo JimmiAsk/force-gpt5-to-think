@@ -1,0 +1,43 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Force GPT-5 to think — Install</title>
+    <style>
+      :root { color-scheme: light dark; }
+      body { font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif; margin: 0; padding: 24px; display: grid; place-items: center; min-height: 100svh; }
+      .card { max-width: 720px; width: 100%; border: 1px solid rgba(0,0,0,.1); border-radius: 12px; padding: 24px; }
+      h1 { margin-top: 0; }
+      .btn { display: inline-block; background: #111827; color: #fff; padding: 12px 18px; border-radius: 8px; text-decoration: none; font-weight: 600; }
+      .btn:hover { filter: brightness(1.1); }
+      .muted { opacity: .75; }
+      code { background: rgba(0,0,0,.06); padding: 2px 6px; border-radius: 6px; }
+    </style>
+  </head>
+  <body>
+    <main class="card">
+      <h1>Force GPT-5 to think</h1>
+      <p>Appends a thinking reminder to your ChatGPT prompt only when the selected model is exactly GPT‑5.</p>
+      <ol>
+        <li>Install <strong>Tampermonkey</strong> from the Chrome Web Store</li>
+        <li>
+          Click the button below to install the userscript:
+          <div style="margin-top:12px;margin-bottom:12px">
+            <a class="btn" id="installBtn" href="#">Install Userscript</a>
+          </div>
+        </li>
+        <li>Open <code>chatgpt.com</code> and use GPT‑5. The reminder will append on send.</li>
+      </ol>
+      <p class="muted">If the button doesn’t work, open the raw userscript URL directly:</p>
+      <p><code id="rawUrl">https://raw.githubusercontent.com/your-username/your-repo/main/userscript/force-gpt5.user.js</code></p>
+      <p class="muted">Replace <code>your-username/your-repo</code> after you publish the repository.</p>
+    </main>
+    <script>
+      const RAW_URL = 'https://raw.githubusercontent.com/your-username/your-repo/main/userscript/force-gpt5.user.js';
+      document.getElementById('installBtn').href = RAW_URL;
+      document.getElementById('rawUrl').textContent = RAW_URL;
+    </script>
+  </body>
+  </html>
+
