@@ -3,7 +3,7 @@
 // @namespace    https://github.com/JimmiAsk/force-gpt5-to-think
 // @version      1.0.0
 // @description  Appends a thinking reminder to your ChatGPT prompt only when the selected model is exactly GPT-5.
-// @author       You
+// @author       JimmiAsk
 // @match        https://chatgpt.com/*
 // @match        https://chat.openai.com/*
 // @run-at       document-idle
