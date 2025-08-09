@@ -9,7 +9,7 @@ Appends a thinking reminder to your ChatGPT prompt only when the selected model 
 ```
 ---
 
-You **MUST** think carefully before you give your answer, the result depends on it!
+IMPORTANT: You **MUST** think carefully before you give your answer, the result depends on it!
 ```
 
 - Skips when ChatGPT is currently streaming a response (Stop button showing)
@@ -21,11 +21,11 @@ This is the simplest path for most users. It also auto‑updates.
 1. Install Tampermonkey:
    - Chrome Web Store: search for "Tampermonkey" by Jan Biniok
 2. Click this link to install the userscript (it will open a Tampermonkey prompt):
-   - `https://raw.githubusercontent.com/your-username/your-repo/main/userscript/force-gpt5.user.js`
+   - `https://raw.githubusercontent.com/JimmiAsk/force-gpt5-to-think/main/userscript/force-gpt5.user.js`
 3. After install, it just works on `chatgpt.com` and `chat.openai.com` when the model is exactly GPT‑5.
 4. To temporarily disable/enable, use Tampermonkey's menu command named "Enabled: ON/OFF (click to toggle)".
 
-Note: Replace `your-username/your-repo` in the URL once you host this repo on GitHub.
+Note: Replace `JimmiAsk/force-gpt5-to-think` in the URL once you host this repo on GitHub.
 
 ## Install (Chrome extension without store)
 1. Download or clone this repository

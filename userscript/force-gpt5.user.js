@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Force GPT-5 to think
-// @namespace    https://github.com/your-username/your-repo
+// @namespace    https://github.com/JimmiAsk/force-gpt5-to-think
 // @version      1.0.0
 // @description  Appends a thinking reminder to your ChatGPT prompt only when the selected model is exactly GPT-5.
 // @author       You
@@ -10,8 +10,8 @@
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @grant        GM_registerMenuCommand
-// @downloadURL  https://raw.githubusercontent.com/your-username/your-repo/main/userscript/force-gpt5.user.js
-// @updateURL    https://raw.githubusercontent.com/your-username/your-repo/main/userscript/force-gpt5.user.js
+// @downloadURL  https://raw.githubusercontent.com/JimmiAsk/force-gpt5-to-think/main/userscript/force-gpt5.user.js
+// @updateURL    https://raw.githubusercontent.com/JimmiAsk/force-gpt5-to-think/main/userscript/force-gpt5.user.js
 // ==/UserScript==
 
 (function () {
