@@ -3,6 +3,7 @@
   "name": "Force GPT-5 to think",
   "short_name": "Force GPT-5",
   "version": "1.0.0",
+  "author": "Jimmi (@AGJimmi)",
   "description": "Adds a thinking reminder to the end of your prompt when the selected model is GPT-5.",
   "permissions": ["storage"],
   "host_permissions": [

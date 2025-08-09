@@ -2,13 +2,11 @@
 
 Appends a thinking reminder to your ChatGPT prompt only when the selected model is exactly GPT-5.
 
+Created by [@AGJimmi](https://x.com/AGJimmi) · [Star on GitHub](https://github.com/JimmiAsk/force-gpt5-to-think)
+
 Links:
 - Install page: https://jimmiask.github.io/force-gpt5-to-think/
 - Repository: https://github.com/JimmiAsk/force-gpt5-to-think
-- X (Twitter): https://x.com/AGJimmi
-
-## Why this exists
-OpenAI capped “thinking” requests for many users after GPT‑5 launched. This forces the router to pick thinking mode by appending a tiny reminder at send time — saving your limited “thinking” requests.
 
 ## What it does
 - Detects when the model selector indicates GPT-5 (exact match)
@@ -22,6 +20,14 @@ IMPORTANT: You **MUST** think carefully before you give your answer, the result 
 
 - Skips when ChatGPT is currently streaming a response (Stop button showing)
 - Works on `chatgpt.com` and `chat.openai.com`
+
+## Why
+- Make GPT‑5 think without burning your limited “thinking” quota
+- Forces the router to pick thinking mode by appending a smart suffix
+- Simple AF and super effective
+
+Want to share? Use this prefilled tweet:
+- [Share on X](https://twitter.com/intent/tweet?text=why%20pay%20%24200%20for%20unlimited%20GPT-5%20thinking%0A%0Awhen%20i%20made%20an%20extension%20that%20will%20do%20it%20for%20free%0A%0Ait%20makes%20GPT-5%20think%20by%20adding%20to%20the%20prompt%0A%0Ait%27s%20simple%20af%20but%20super%20effective%0A%0Aif%20you%20don%27t%20use%20this%20you%27re%20ngmi%0A%0AInstall%3A%20https%3A%2F%2Fjimmiask.github.io%2Fforce-gpt5-to-think%2F%0ARepo%3A%20https%3A%2F%2Fgithub.com%2FJimmiAsk%2Fforce-gpt5-to-think)
 
 ## Install (easiest): One‑click userscript
 This is the simplest path for most users. It also auto‑updates.
@@ -45,8 +51,6 @@ This is the simplest path for most users. It also auto‑updates.
 - **Storage**: to persist the on/off toggle in Chrome Sync storage
 - **Host permissions**: `https://chatgpt.com/*`, `https://chat.openai.com/*`
 
-## Spread the word / Support
-- Star the repo if it helped: https://github.com/JimmiAsk/force-gpt5-to-think
-- Follow on X: https://x.com/AGJimmi
-- Open an issue: https://github.com/JimmiAsk/force-gpt5-to-think/issues
+## Support
+Open an issue: https://github.com/JimmiAsk/force-gpt5-to-think/issues
 
