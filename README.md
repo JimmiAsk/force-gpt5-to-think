@@ -41,13 +41,6 @@ This is the simplest path for most users. It also auto‑updates.
 - **Storage**: to persist the on/off toggle in Chrome Sync storage
 - **Host permissions**: `https://chatgpt.com/*`, `https://chat.openai.com/*`
 
-## Releases (optional)
-If you want to offer a ready‑to‑use ZIP for manual install:
-
-1. Run `npm run pack` to create `dist/force-gpt5-to-think.zip`
-2. Upload that ZIP to a GitHub Release
-3. Users download, unzip, and use "Load unpacked" pointing to the unzipped folder
-
 ## Support
 Open an issue: https://github.com/JimmiAsk/force-gpt5-to-think/issues
 
