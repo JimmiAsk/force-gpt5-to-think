@@ -2,10 +2,10 @@ const STORAGE_KEY = 'force_gpt5_enabled';
 
 function setIcon(_enabled) {
   const path = {
-    16: 'image copy.png',
-    32: 'image copy.png',
-    48: 'image copy.png',
-    128: 'image copy.png',
+    16: 'icon.png',
+    32: 'icon.png',
+    48: 'icon.png',
+    128: 'icon.png',
   };
   chrome.action.setIcon({ path }, () => void chrome.runtime.lastError);
 }

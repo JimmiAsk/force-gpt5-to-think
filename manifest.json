@@ -23,10 +23,10 @@
   "action": {
     "default_title": "Force GPT-5 to think",
     "default_icon": {
-      "16": "image copy.png",
-      "32": "image copy.png",
-      "48": "image copy.png",
-      "128": "image copy.png"
+      "16": "icon.png",
+      "32": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
     },
     "default_popup": "popup.html"
   },
@@ -34,10 +34,10 @@
     "service_worker": "background.js"
   },
   "icons": {
-    "16": "image copy.png",
-    "32": "image copy.png",
-    "48": "image copy.png",
-    "128": "image copy.png"
+    "16": "icon.png",
+    "32": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
   }
 }
 
