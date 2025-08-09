@@ -27,7 +27,7 @@ IMPORTANT: You **MUST** think carefully before you give your answer, the result 
 - Simple AF and super effective
 
 Want to share? Use this prefilled tweet:
-- [Share on X](https://twitter.com/intent/tweet?text=why%20pay%20%24200%20for%20unlimited%20GPT-5%20thinking%0A%0Awhen%20i%20made%20an%20extension%20that%20will%20do%20it%20for%20free%0A%0Ait%20makes%20GPT-5%20think%20by%20adding%20to%20the%20prompt%0A%0Ait%27s%20simple%20af%20but%20super%20effective%0A%0Aif%20you%20don%27t%20use%20this%20you%27re%20ngmi%0A%0AInstall%3A%20https%3A%2F%2Fjimmiask.github.io%2Fforce-gpt5-to-think%2F%0ARepo%3A%20https%3A%2F%2Fgithub.com%2FJimmiAsk%2Fforce-gpt5-to-think)
+- [Share on X](https://twitter.com/intent/tweet?text=why%20pay%20%24200%20for%20unlimited%20GPT-5%20thinking%0A%0Awhen%20there%20is%20an%20extension%20that%20will%20do%20it%20for%20free%0A%0Ait%20makes%20GPT-5%20think%20by%20adding%20to%20the%20prompt%0A%0Ait%27s%20simple%20af%20but%20super%20effective%0A%0Aif%20you%20don%27t%20use%20this%20you%27re%20ngmi%0A%0Ahttps%3A%2F%2Fgithub.com%2FJimmiAsk%2Fforce-gpt5-to-think)
 
 ## Install (easiest): One‑click userscript
 This is the simplest path for most users. It also auto‑updates.
